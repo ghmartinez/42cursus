@@ -8,7 +8,7 @@ This repository is dedicated to storing all the projects completed during my tim
 
 ## Author
 
-[Gabriel Martínez](https://gabrielmr.com/)
+[Gabriel Martínez 👨‍💻](https://gabrielmr.com/)
 
 ## About 42 School
 
