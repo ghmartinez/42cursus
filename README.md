@@ -1,15 +1,15 @@
-# 42cursus Projects
+# 42cursus Projects Showcase
 
-This repository is dedicated to storing all the projects completed during my time at 42 School.
+Welcome to my personal repository, where I proudly present a compilation of the remarkable projects I completed during my enriching journey at 42 School.
 
-## Projects
+## Explore the Projects
 
-1. [libft](/libft): This project involves creating a C library consisting of various general-purpose functions that serve as a foundation for other programs.
+1. **libft** - Check out my meticulously crafted C library that encompasses a diverse array of general-purpose functions. This library lays a robust foundation for the development of various other programs and applications. [Click here to view the project](/libft).
 
-## Author
+## About the Author
 
-[Gabriel Martínez 👨‍💻](https://gabrielmr.com/)
+Delve into the mind behind these innovative projects. My name is Gabriel Martínez, and I'm passionate about coding, problem-solving, and pushing the boundaries of what's possible in the world of technology. [Discover more about me here](https://gabrielmr.com/).
 
-## About 42 School
+## Unveiling 42 School
 
-42 School is a project-based programming school that provides a unique educational experience. For more information about 42 School, visit [42 School Website](https://www.42.fr/).
+Immerse yourself in the unique, project-based learning environment that defines the essence of 42 School. With a commitment to fostering creativity and honing practical skills, 42 School has carved a distinct place in the realm of programming education. Curious to learn more? Dive into the world of 42 School through their [official website](https://www.42.fr/).
